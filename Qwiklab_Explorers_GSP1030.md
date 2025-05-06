@@ -12,7 +12,7 @@
 
 * ### Go to `Google Sheets` from [here](https://docs.google.com/spreadsheets/u/0/?tgif=d)
 
-* ### Download the File From [Here]()
+* ### Download the File From [Here](https://github.com/Titash-shil/Publish-your-AppSheet-App-GSP1030-New/raw/refs/heads/main/qwiklab-explorers-gsp1030.xlsx)
 
 * ### Follow the next stpes from the video carefully
 
