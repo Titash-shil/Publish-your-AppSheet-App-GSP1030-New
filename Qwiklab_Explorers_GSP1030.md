@@ -7,9 +7,6 @@
 #### This script and guide are provided for educational purposes to help you understand the lab process. Please ensure you understand the steps before using any scripts. Before using the script, I encourage you to open and review it to understand each step.The goal is to help you learn how to complete the labs effectively while following Qwiklabs' terms of service and YouTube's community guidelines.
 ---
 
- - ### Copy & Run the Commands in Cloud Shell Terminal :
-
-
 * ### Go to `Google Sheets` from [here](https://docs.google.com/spreadsheets/u/0/?tgif=d)
 
 * ### Download the File From [Here](https://github.com/Titash-shil/Publish-your-AppSheet-App-GSP1030-New/raw/refs/heads/main/qwiklab-explorers-gsp1030.xlsx)
